@@ -1,0 +1,16 @@
+{
+  "name": "agent-skills",
+  "version": "0.1.0",
+  "description": "Install agent skills from GitHub. Like shadcn, but for AI agents.",
+  "bin": {
+    "agent-skills": "./bin/cli.mjs"
+  },
+  "type": "module",
+  "keywords": ["ai", "agent", "skills", "dao", "solana", "realms", "openclaw"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mythic-Project/agent-skills"
+  },
+  "license": "MIT",
+  "files": ["bin/"]
+}
