@@ -7,7 +7,7 @@ import { tmpdir } from 'os';
 
 const VERSION = '0.1.0';
 
-const REGISTRY_URL = 'https://raw.githubusercontent.com/Mythic-Project/agent-skills-registry/main/registry.json';
+const REGISTRY_URL = 'https://raw.githubusercontent.com/Mythic-Project/realms-agent-docs/main/registry.json';
 
 const COLORS = {
   reset: '\x1b[0m',
